@@ -1,3 +1,3 @@
-Main language: pytohn3
+Main language: python3
 
 Secondary: Web stuff
